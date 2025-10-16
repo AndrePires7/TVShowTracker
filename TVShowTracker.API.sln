@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVShowTracker.API", "TVShowTracker.API\TVShowTracker.API.csproj", "{66D610A5-6277-40AC-A5A7-092ACD180968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVShowTracker.Tests", "TVShowTracker.Tests\TVShowTracker.Tests.csproj", "{740FD0BD-E3DA-47FD-AC33-9E91C2366A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D610A5-6277-40AC-A5A7-092ACD180968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D610A5-6277-40AC-A5A7-092ACD180968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D610A5-6277-40AC-A5A7-092ACD180968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D610A5-6277-40AC-A5A7-092ACD180968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740FD0BD-E3DA-47FD-AC33-9E91C2366A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740FD0BD-E3DA-47FD-AC33-9E91C2366A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740FD0BD-E3DA-47FD-AC33-9E91C2366A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740FD0BD-E3DA-47FD-AC33-9E91C2366A21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0DAEAD-17DA-4E09-AE14-4D37E7676289}
+	EndGlobalSection
+EndGlobal
